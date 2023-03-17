@@ -1,0 +1,6 @@
+root_sg_name = "ssh_http_https"
+root_key_name = "tf_pem_key_1"
+root_key_path = "./keys/my_pem"
+root_ami_id = "ami-05375ba8414409b07"
+root_instance_type = "t2.micro"
+root_tag_name = "tf_instance_1"
